@@ -1,0 +1,3 @@
+#pruba
+
+print("Hello world")

@@ -1,3 +1,3 @@
-#pruba
+#prueba
 
 print("Hello world")
